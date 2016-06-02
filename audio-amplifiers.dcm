@@ -1,0 +1,66 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD623ANZ
+D Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, DIP-8
+K ad623 instumentation amplifier dip-8
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP AD623BN
+D Single Supply, Rail to Rail, Instumentation Amplifier, DIP-8
+K ad623 instumentation amplifier dip-8
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP AD623BNZ
+D Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, DIP-8
+K ad623 instumentation amplifier dip-8
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP DRV135PA
+D Audio balanced line driver
+K drv135 amplifier dip-8 line driver balanced
+F http://www.ti.com/lit/ds/symlink/drv135.pdf
+$ENDCMP
+#
+$CMP INA129P
+D Precision Low Power Instrumentation Amplifier
+K audio amplifier isnstrumental differential
+$ENDCMP
+#
+$CMP INA2137PA
+D Dual differential line receiver
+K ina2137 differential line receiver dip-14 quad
+F http://www.ti.com/lit/ds/symlink/ina2137.pdf
+$ENDCMP
+#
+$CMP OPA134PA
+D Audio operational amplifier
+K opa134 instumentation amplifier dip-8
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA2134PA
+D Dual Audio operational amplifier
+K opa2134 instumentation amplifier dip-8 dual
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA4134PA
+D Quad Audio operational amplifier
+K opa4134 amplifier dip-14 quad
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP RCA-PHONO
+D RCA phono plug (tulip)
+K CONN RCA PHONO
+$ENDCMP
+#
+$CMP XLR3-S
+D XLR-3 with shield connector
+K XLR3 XLR CONN
+$ENDCMP
+#
+#End Doc Library

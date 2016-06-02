@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XLR3
+D XLR-3 w Shield
+K CONN XLR XLR3
+$ENDCMP
+#
+#End Doc Library
